@@ -23,14 +23,7 @@ With **10+ years of experience** architecting, building, and optimizing high-thr
 
 ---
 
-### 📊 GitHub Stats
-
-![Bimbo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elbimbo29&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbimbo29&layout=compact&theme=radial)
-
----
-
 ### 📫 Connect With Me
 
-- **LinkedIn:** [www.linkedin.com/in/bimbo-tucay](www.linkedin.com/in/bimbo-tucay)
+- **LinkedIn:** [https://www.linkedin.com/in/bimbo-tucay]
 - **Email:** kurdapio@protonmail.com
