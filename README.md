@@ -25,5 +25,5 @@ With **10+ years of experience** architecting, building, and optimizing high-thr
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/bimbo-tucay]
+- **LinkedIn:** https://www.linkedin.com/in/bimbo-tucay
 - **Email:** kurdapio@protonmail.com
